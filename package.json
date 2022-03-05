@@ -10,7 +10,8 @@
     "map:browser": "http-server -o client/map.html",
     "mapobjects": "node server/map-objects",
     "filter": "node server/filter",
-    "reduce": "node server/reduce"
+    "reduce": "node server/reduce",
+    "reduce:reloaded": "node server/reduce-reloaded"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
