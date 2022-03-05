@@ -15,7 +15,8 @@
     "some": "node server/some",
     "every": "node server/every",
     "find:findIndex": "node server/find-findIndex",
-    "includes": "node server/includes"
+    "includes": "node server/includes",
+    "join:split": "node server/join-split"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
