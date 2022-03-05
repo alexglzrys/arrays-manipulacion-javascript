@@ -8,7 +8,8 @@
     "foreach:browser": "http-server -o client/foreach.html",
     "map": "node server/map",
     "map:browser": "http-server -o client/map.html",
-    "mapobjects": "node server/map-objects"
+    "mapobjects": "node server/map-objects",
+    "filter": "node server/filter"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
