@@ -13,7 +13,8 @@
     "reduce": "node server/reduce",
     "reduce:reloaded": "node server/reduce-reloaded",
     "some": "node server/some",
-    "every": "node server/every"
+    "every": "node server/every",
+    "find:findIndex": "node server/find-findIndex"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
