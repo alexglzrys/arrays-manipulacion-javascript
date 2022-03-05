@@ -12,7 +12,8 @@
     "filter": "node server/filter",
     "reduce": "node server/reduce",
     "reduce:reloaded": "node server/reduce-reloaded",
-    "some": "node server/some"
+    "some": "node server/some",
+    "every": "node server/every"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
