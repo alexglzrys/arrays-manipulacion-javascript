@@ -9,7 +9,8 @@
     "map": "node server/map",
     "map:browser": "http-server -o client/map.html",
     "mapobjects": "node server/map-objects",
-    "filter": "node server/filter"
+    "filter": "node server/filter",
+    "reduce": "node server/reduce"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
