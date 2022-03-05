@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "foreach": "node server/foreach",
-    "foreach:browser": "http-server -o client/foreach.html"
+    "foreach:browser": "http-server -o client/foreach.html",
+    "map": "node server/map",
+    "map:browser": "http-server -o client/map.html"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
