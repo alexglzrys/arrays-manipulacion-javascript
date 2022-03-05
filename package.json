@@ -1,0 +1,11 @@
+{
+  "name": "manipulacion-arrays",
+  "version": "1.0.0",
+  "description": "Manipulación de Arrays en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexglzrys@gmail.com",
+  "license": "MIT"
+}
