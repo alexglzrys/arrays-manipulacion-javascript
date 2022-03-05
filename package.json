@@ -11,11 +11,13 @@
     "mapobjects": "node server/map-objects",
     "filter": "node server/filter",
     "reduce": "node server/reduce",
-    "reduce:reloaded": "node server/reduce-reloaded"
+    "reduce:reloaded": "node server/reduce-reloaded",
+    "some": "node server/some"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "date-fns": "^2.28.0",
     "http-server": "^14.1.0"
   }
 }
