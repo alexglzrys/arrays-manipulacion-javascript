@@ -16,7 +16,8 @@
     "every": "node server/every",
     "find:findIndex": "node server/find-findIndex",
     "includes": "node server/includes",
-    "join:split": "node server/join-split"
+    "join:split": "node server/join-split",
+    "concat": "node server/concat"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
