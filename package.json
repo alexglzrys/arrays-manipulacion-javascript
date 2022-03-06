@@ -19,7 +19,8 @@
     "join:split": "node server/join-split",
     "concat": "node server/concat",
     "flat": "node server/flat",
-    "flatmap": "node server/flatmap"
+    "flatmap": "node server/flatmap",
+    "mutable": "node server/mutable_and_inmutable"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
