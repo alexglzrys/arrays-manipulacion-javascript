@@ -20,7 +20,8 @@
     "concat": "node server/concat",
     "flat": "node server/flat",
     "flatmap": "node server/flatmap",
-    "mutable": "node server/mutable_and_inmutable"
+    "mutable": "node server/mutable_and_inmutable",
+    "sort": "node server/sort"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
