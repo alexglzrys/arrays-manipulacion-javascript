@@ -18,7 +18,8 @@
     "includes": "node server/includes",
     "join:split": "node server/join-split",
     "concat": "node server/concat",
-    "flat": "node server/flat"
+    "flat": "node server/flat",
+    "flatmap": "node server/flatmap"
   },
   "author": "alexglzrys@gmail.com",
   "license": "MIT",
